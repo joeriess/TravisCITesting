@@ -18,4 +18,13 @@ class TravisCITestingTests: XCTestCase {
         XCTAssertEqual(result, 2)
     }
     
+    func testSubtract() {
+        
+        XCTAssert(true)
+    }
+    
+    func testAnotherOne() {
+        XCTAssert(true)
+    }
+    
 }
