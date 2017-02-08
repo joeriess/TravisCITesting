@@ -23,4 +23,8 @@ class TravisCITestingTests: XCTestCase {
         XCTAssert(true)
     }
     
+    func testAnotherOne() {
+        XCTAssert(true)
+    }
+    
 }
