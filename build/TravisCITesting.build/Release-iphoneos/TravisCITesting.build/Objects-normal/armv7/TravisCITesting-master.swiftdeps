@@ -1,7 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "9d01db4b32f8253a74c59412eadb84ad"
-build_time: [539837762, 473062000]
-inputs:
-  "/Users/joseph.riess/Documents/iOS/TravisCITesting/TravisCITesting/ViewController.swift": [9223372036854775807, 0]
-  "/Users/joseph.riess/Documents/iOS/TravisCITesting/TravisCITesting/File.swift": [9223372036854775807, 0]
-  "/Users/joseph.riess/Documents/iOS/TravisCITesting/TravisCITesting/AppDelegate.swift": [9223372036854775807, 0]
