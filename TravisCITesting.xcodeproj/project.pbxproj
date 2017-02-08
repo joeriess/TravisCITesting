@@ -15,6 +15,7 @@
 		FA1AD67A1E4AB7D200FE3266 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA1AD6781E4AB7D200FE3266 /* LaunchScreen.storyboard */; };
 		FA1AD6851E4AB7D200FE3266 /* TravisCITestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1AD6841E4AB7D200FE3266 /* TravisCITestingTests.swift */; };
 		FA1AD6901E4AB7D200FE3266 /* TravisCITestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1AD68F1E4AB7D200FE3266 /* TravisCITestingUITests.swift */; };
+		FA1AD69E1E4ABB8800FE3266 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1AD69D1E4ABB8800FE3266 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA1AD68B1E4AB7D200FE3266 /* TravisCITestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TravisCITestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA1AD68F1E4AB7D200FE3266 /* TravisCITestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravisCITestingUITests.swift; sourceTree = "<group>"; };
 		FA1AD6911E4AB7D200FE3266 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA1AD69D1E4ABB8800FE3266 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				FA1AD6781E4AB7D200FE3266 /* LaunchScreen.storyboard */,
 				FA1AD67B1E4AB7D200FE3266 /* Info.plist */,
 				FA1AD6731E4AB7D200FE3266 /* TravisCITesting.xcdatamodeld */,
+				FA1AD69D1E4ABB8800FE3266 /* File.swift */,
 			);
 			path = TravisCITesting;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA1AD66F1E4AB7D200FE3266 /* ViewController.swift in Sources */,
+				FA1AD69E1E4ABB8800FE3266 /* File.swift in Sources */,
 				FA1AD66D1E4AB7D200FE3266 /* AppDelegate.swift in Sources */,
 				FA1AD6751E4AB7D200FE3266 /* TravisCITesting.xcdatamodeld in Sources */,
 			);
